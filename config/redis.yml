@@ -1,0 +1,17 @@
+default:
+  port: 6379
+development:
+  host: localhost
+  db: 4
+#  namespace: appname_dev
+test:
+  host: localhost
+  db: 2
+#  namespace: appname_test
+production:
+  host: localhost
+  db: 0
+#  namespace: appname_prod
+staging:
+  host: localhost
+  db: 0

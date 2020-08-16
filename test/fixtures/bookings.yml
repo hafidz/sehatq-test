@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  schedule_id: 1
+  booking_date: 2020-08-15 09:38:35
+  queue_number: 1
+  hospital_doctor_id: 1
+
+two:
+  user_id: 1
+  schedule_id: 1
+  booking_date: 2020-08-15 09:38:35
+  queue_number: 1
+  hospital_doctor_id: 1
