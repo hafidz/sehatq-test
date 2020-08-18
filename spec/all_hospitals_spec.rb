@@ -1,7 +1,7 @@
 require 'rails_helper'
 
 describe Api::V1::HospitalsController, :type => :controller do
-  let!(:hospitals) {create(:hospital)}
+#  let!(:hospitals) {create(:hospital)}
 
   context 'when the hospitals exist' do
 
