@@ -11,5 +11,4 @@ Rails.application.routes.draw do
       resources :bookings
     end
   end
-  root :to => "api/v1/registrations#index"
 end
